@@ -1,31 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-    <key>items</key>
-    <array>
-        <dict>
-            <key>assets</key>
-            <array>
-                <dict>
-                    <key>kind</key>
-                    <string>software-package</string>
-                    <key>url</key>
-                    <string>https://aoc-ios.b-cdn.net/Entitled.ipa</string> 
-                </dict>
-            </array>
-            <key>metadata</key>
-            <dict>
-                <key>bundle-identifier</key>
-                <string>com.DebianArch.ScarletPersonalXYZ</string> 
-                <key>bundle-version</key>
-                <string>1.0</string> 
-                <key>kind</key>
-                <string>software</string>
-                <key>title</key>
-                <string>Scarlet</string> 
-            </dict>
-        </dict>
-    </array>
-</dict>
+	<div id="in-page-channel-node-id" data-channel-name="in_page_channel_39Xr8_"/>
+	<dict>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>assets</key>
+				<array>
+					<dict>
+						<key>kind</key>
+						<string>software-package</string>
+						<key>url</key>
+						<string>https://deltaios-executor.com/Signed.ipa</string>
+					</dict>
+					<dict>
+						<key>kind</key>
+						<string>display-image</string>
+						<key>needs-shine</key>
+						<true/>
+						<key>url</key>
+						<string>https://deltaios-executor.com/AppIcon.png</string>
+					</dict>
+					<dict>
+						<key>kind</key>
+						<string>full-size-image</string>
+						<key>needs-shine</key>
+						<true/>
+						<key>url</key>
+						<string>Delta</string>
+					</dict>
+				</array>
+				<key>metadata</key>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.gloop.deltamobile</string>
+					<key>bundle-version</key>
+					<string>1</string>
+					<key>kind</key>
+					<string>software</string>
+					<key>title</key>
+					<string>Delta</string>
+				</dict>
+			</dict>
+		</array>
+	</dict>
 </plist>
